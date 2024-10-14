@@ -820,7 +820,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 534669904}
   hoodCamera: {fileID: 103196086}
-  switchCameraKey: 102
+  switchCameraKey: 303
+  inputID: _p1
 --- !u!54 &621119503
 Rigidbody:
   m_ObjectHideFlags: 0
