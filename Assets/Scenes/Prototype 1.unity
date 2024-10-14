@@ -313,9 +313,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
+    x: 0.5
     y: 0
-    width: 1
+    width: 0.5
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -808,7 +808,7 @@ MonoBehaviour:
   mainCamera: {fileID: 872076968}
   hoodCamera: {fileID: 2013465116}
   switchCameraKey: 102
-  inputID: _p1
+  inputID: _p2
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -863,9 +863,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
+    x: 0.5
     y: 0
-    width: 1
+    width: 0.5
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -1249,7 +1249,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.5
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -1283,7 +1283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 063cb112ecaaa434d94d283df6488861, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 621119497}
+  player: {fileID: 518310586}
 --- !u!81 &872076970
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1932,7 +1932,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.5
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
